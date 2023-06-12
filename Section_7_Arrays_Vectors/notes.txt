@@ -1,0 +1,11 @@
+Characteristics:
+    Fixed Size
+    Elements are all the same type
+    Individual elements can be accessed by their position or index
+    Zero index
+
+    No checking to see if you are out of bounds
+
+    Always initialize arrays
+    Very efficient
+    Iteration is often used to process
